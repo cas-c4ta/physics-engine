@@ -23,7 +23,7 @@ Die Argumente *rad* und *hue* sind optional.
 
 Das Argument *points* ist ein Array aus mehreren Instanzen von *VerletPoint*.
 
-## Sticks
+## Sticks
 
 Ein Stick ist eine Verbindung zweier VerletPoints.
 
