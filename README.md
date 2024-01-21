@@ -23,6 +23,14 @@ Die Argumente *rad* und *hue* sind optional.
 
 Das Argument *points* ist ein Array aus mehreren Instanzen von *VerletPoint*.
 
+## Sticks
+
+Ein Stick ist eine Verbindung zweier VerletPoints.
+
+    myKonstrukt.addStick(i1, i2, isHidden)
+
+Die Argumente *i1* und *i2* beziehen sich auf Indexe im Array *myKonstrukt.points*. Das Argument *isHidden* (true/false) ist optional.
+
 ## Links
 
 - Diese Physics Engine basiert auf der Playlist [Coding Math, Physics (36–39)](https://www.youtube.com/playlist?list=PL7wAPgl1JVvXBCTmnGwysy9OtR-5nOmz3) von [Keith Peters](https://bit-101.com/blog/).
