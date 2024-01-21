@@ -11,7 +11,7 @@ Eine einfache Physics Engine mit Schwerkraft. Bewegungen werden amit Verlet Inte
 
 # Klasse «VerletPoint»
 
-  const point1 = new VerletPoint(v_pos, v_oldPos, rad, hue)
+    const point1 = new VerletPoint(v_pos, v_oldPos, rad, hue)
 
 Die Argumente *v_pos* und *v_oldPos* sind p5-Vektoren.
 
